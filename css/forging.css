@@ -80,13 +80,13 @@ li {
 
 .logo h1 {
     font-family: 'Roboto';
-    font-size: 19px;
+    font-size: 13px;
     font-weight: 600;
     display: inline-block;
     margin: 0;
     vertical-align: top;
-    padding-top: 37px;
-  }
+    padding-top: 39px;
+}
 
 .logo h2 {
   visibility: hidden;
@@ -187,9 +187,9 @@ hr {
 }
 
 .content {
-  border-bottom: 1px solid #6b6a6a;
-  padding: 0;
-  text-align: center;
+    border-bottom: 1px solid #6b6a6a;
+    padding: 0 0 25px;
+    text-align: center;
 }
 
 
@@ -245,10 +245,10 @@ hr {
 }
 
 .wear-part-images img {
-  width: 125%;
-  left: -15%;
-  position: relative;
-  top: -230%;
+    width: 125%;
+    left: -15%;
+    position: relative;
+    top: -55%;
 }
 
 .cstng-imgs {
@@ -273,12 +273,13 @@ hr {
 }
 
 .circle {
-  width: 250px;
-  height: 250px;
-  border-radius: 50%;
-  overflow: hidden;
-  display: inline-block;
-  margin: 1%;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: inline-block;
+    margin: 1%;
+    border: 1px solid #6b6a6a;
 }
 
 .circle img {
@@ -292,6 +293,7 @@ hr {
   overflow: hidden;
   display: inline-block;
   margin: 1%;
+  border: 1px solid #6b6a6a;
 }
 
 .circle2 img {

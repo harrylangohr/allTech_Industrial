@@ -33,6 +33,12 @@ header {
   width: 48%;
 }
 
+img {
+    border-style: none;
+    position: relative;
+    top: 9px;
+}
+
 .logo h2 {
   visibility: hidden;
   margin: -100px;
@@ -80,13 +86,13 @@ li {
 
 .logo h1 {
     font-family: 'Roboto';
-    font-size: 19px;
+    font-size: 13px;
     font-weight: 600;
     display: inline-block;
     margin: 0;
     vertical-align: top;
-    padding-top: 37px;
-  }
+    padding-top: 48px;
+}
 
 .logo h2 {
   visibility: hidden;
@@ -257,8 +263,7 @@ hr {
   width: 15%;
   overflow: hidden;
   margin: 1% 1% 0 5%;
-  background-color: rgb(204,85,0)
-}
+  }
 
 .cstng-imgs img {
   display: block;

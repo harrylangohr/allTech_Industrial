@@ -85,7 +85,7 @@ li {
     display: inline-block;
     margin: 0;
     vertical-align: top;
-    padding-top: 49px;
+    padding-top: 39px;
   }
 
 .logo h2 {
@@ -171,7 +171,7 @@ hr {
   margin: 0;
 }
 .banner {
-  height: 540px;
+  height: 350px;
   margin-top: 115px;
   text-align: center;
   border-bottom: 1px solid #6b6a6a;
@@ -257,7 +257,7 @@ hr {
 
 .wear-part-images img {
   position: relative;
-  top: -290%;
+  top: -265%;
   width: 100%;
 }
 
@@ -281,8 +281,8 @@ hr {
 }
 
 .circle {
-  width: 250px;
-  height: 250px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   overflow: hidden;
   display: inline-block;
@@ -295,8 +295,8 @@ hr {
 }
 
 .circle2 {
-  width: 250px;
-  height: 250px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   overflow: hidden;
   display: inline-block;

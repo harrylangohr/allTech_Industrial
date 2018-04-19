@@ -80,13 +80,13 @@ li {
 
 .logo h1 {
     font-family: 'Roboto';
-    font-size: 19px;
+    font-size: 13px;
     font-weight: 600;
     display: inline-block;
     margin: 0;
     vertical-align: top;
-    padding-top: 37px;
-  }
+    padding-top: 39px;
+}
 
 .logo h2 {
   visibility: hidden;
@@ -172,7 +172,7 @@ hr {
   margin: 0;
 }
 .banner {
-  height: 540px;
+  height: 374px;
   margin-top: 115px;
   text-align: center;
   border-bottom: 1px solid #6b6a6a;
@@ -184,7 +184,7 @@ hr {
 .banner img {
     width: 100%;
     position: relative;
-    top: -175%;
+    top: -115%;
 }
 
 .content {

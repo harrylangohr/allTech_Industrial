@@ -550,6 +550,12 @@ header {
   width: 48%;
 }
 
+img {
+    border-style: none;
+    position: relative;
+    top: 9px;
+}
+
 .logo h2 {
   visibility: hidden;
   margin: -100px;
