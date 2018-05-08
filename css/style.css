@@ -1,4 +1,4 @@
-@media (min-width: 1441px) and (max-width: 2560px) {
+@media (min-width: 1025px) and (max-width: 2560px) {
 
 .narrow {
   visibility: hidden;
@@ -237,10 +237,7 @@ hr {
   margin: 20px;
 }
 
-.bottom {
-  visibility: hidden;
-  height: 0;
-}
+
 
 .map {
   width: 300px;
